@@ -1,8 +1,8 @@
-<h2 align="center">
+<h1 align="center">
   <br>
-  <B>Python Projects For Beginners</B>
+ **<B>Python Projects For Beginners</B>**
   <br>
-</h2>
+</h1>
 
 [![made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
