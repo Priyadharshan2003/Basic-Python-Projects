@@ -1,11 +1,8 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects">
- 
-
   <br>
   <B>Python Projects For Beginners</B>
-
   <br>
 </h1>
 
